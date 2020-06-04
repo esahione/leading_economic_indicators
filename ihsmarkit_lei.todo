@@ -1,0 +1,16 @@
+LEI Must Dos:
+  ☐ Parallelize data series pipeline with dinglebop
+
+  ☐ Create caching mechanism for dataset that is thread safe
+
+  ☐ Use Cython in optimizations
+
+  ☐ Forecast, trend, cycles, and confidence intervals data push to db
+
+  ☐ Data series expected sign from indicator
+
+  ☐ Fit EIA important timeseries to US Indicators with SARIMAX and push them to db so that I can use it as an argument for Hill to push for this product
+
+  ☐ Dynamic & Interactive Tableau Visualization File (which will be the product)
+
+  ☐ Web API
